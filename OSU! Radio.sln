@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSU! Radio", "OSU! Radio\OSU! Radio.csproj", "{000BA4D2-C1AB-45FB-B028-CDE0886B2DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000BA4D2-C1AB-45FB-B028-CDE0886B2DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000BA4D2-C1AB-45FB-B028-CDE0886B2DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000BA4D2-C1AB-45FB-B028-CDE0886B2DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000BA4D2-C1AB-45FB-B028-CDE0886B2DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCDC1D6-F128-4336-B0F2-1693FBDEF4F6}
+	EndGlobalSection
+EndGlobal
